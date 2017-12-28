@@ -1,0 +1,15 @@
+site_name: Переводы различных RFC
+docs_dir: 'spec'
+theme: 'material'
+extra:
+  palette:
+    primary: 'orange'
+    accent: 'light green'
+markdown_extensions:
+    - pymdownx.tasklist(custom_checkbox=true)
+pages:
+    - 'Переводы различных RFC' : index.md
+    - 'digistan.org' :
+        - '1/КОСС' : 'digistan.org/1/КОСС.md'
+    - 'rfc.zeromq.org' :
+        - '42/К4' : 'rfc.zeromq.org/42/К4.md'
