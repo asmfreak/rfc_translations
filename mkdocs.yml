@@ -1,9 +1,11 @@
 site_name: Переводы различных RFC
 docs_dir: 'spec'
 theme: 'material'
+repo_name: 'ASMfreaK/rfc_translations'
+repo_url: 'https://github.com/ASMfreaK/rfc_translations'
 extra:
   palette:
-    primary: 'orange'
+    primary: 'cyan'
     accent: 'light green'
 markdown_extensions:
     - pymdownx.tasklist(custom_checkbox=true)
