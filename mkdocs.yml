@@ -1,4 +1,4 @@
-site_name: Переводы различных RFC
+site_name: Открытые стандарты (спецификации) по методологии разработки
 docs_dir: 'spec'
 theme: 'material'
 repo_name: 'ASMfreaK/rfc_translations'
